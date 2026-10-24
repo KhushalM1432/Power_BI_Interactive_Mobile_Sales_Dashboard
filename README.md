@@ -3,4 +3,4 @@
 <img width="1278" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/00e902aa-03d4-4221-8ff7-802d99d8154b" />
 # Power_BI_Interactive_Mobile_Sales_Dashboard
 Data Science
-💼 LinkedIn:https://www.linkedin.com/feed/update/urn:li:activity:7519355951972253696/
+💼 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7519355951972253696/
