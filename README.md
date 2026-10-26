@@ -2,11 +2,11 @@
 <img width="1278" height="720" alt="MTD Report" src="https://github.com/user-attachments/assets/ffcaa3b2-7ffd-4db0-888e-b2afee5f322b" />
 <img width="1278" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/00e902aa-03d4-4221-8ff7-802d99d8154b" />
 
-## Power_BI_Interactive_Mobile_Sales_Dashboard | Data_Science & Business_Intelligence_Project | Power BI
+## Power-BI Interactive Mobile Sales Dashboard | Data Science & Business Intelligence Project | Power BI
 
 ## Data Science
 
-### 📌 Project Overview
+### 📌Project Overview
 
 Developed an interactive **Mobile Sales Analytics Dashboard using Microsoft Power BI** to transform mobile retail sales data into meaningful business insights. The solution provides a consolidated view of revenue performance, sales volume, customer ratings, payment preferences, product demand, and geographic sales distribution.
 
