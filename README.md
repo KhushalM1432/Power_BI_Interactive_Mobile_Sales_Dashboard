@@ -2,7 +2,7 @@
 <img width="1278" height="720" alt="MTD Report" src="https://github.com/user-attachments/assets/ffcaa3b2-7ffd-4db0-888e-b2afee5f322b" />
 <img width="1278" height="717" alt="Dashboard" src="https://github.com/user-attachments/assets/00e902aa-03d4-4221-8ff7-802d99d8154b" />
 
-## Power_BI_Interactive_Mobile_Sales_Dashboard | Data_Science_&_Business_Intelligence_Project | Power BI
+## Power_BI_Interactive_Mobile_Sales_Dashboard | Data_Science & Business_Intelligence_Project | Power BI
 
 ## Data Science
 
